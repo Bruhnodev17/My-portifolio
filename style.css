@@ -64,11 +64,7 @@ header > .interface .logo h2{
     color: #61132d;
     transition: .2s;
     margin-top: 30px;
-    margin-right: 110px;
-}
-header > .interface .logo  img:hover{
-    transform: scale(1.05);
-    box-shadow: 0 0 5px rgba(255, 255, 255, 0.452);
+    margin-right: 130px;
 }
 
 header a{
